@@ -77,7 +77,7 @@ You can also add a video walkthrough or animated GIF in this section.
 
 1. Clone or download this repository:
    ```bash
-   git clone [https://github.com/SRH-WLH-AI/data-visualization-and-dashboards-ashutoshbehera07-tech.git]
+   git clone (https://github.com/ashutoshbehera07-tech/Fifa-Worldcup-Dashboard.git)
    cd data-visualization-and-dashboards-ashutoshbehera07-tech
    ```
 
